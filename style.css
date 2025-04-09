@@ -51,14 +51,13 @@ p{
   z-index: 99; 
   border: none;
   outline: none;
-  background-color: #555;
+  background-color: red;
   color: white;
   cursor: pointer;
   padding: 10px;
-  border-radius: 10px; 
+  border-radius: 10px;
   }
 
-  #felGomb:hover {
-    background-color: #555;
-  }
-
+#felGomb:hover {
+  background-color: #555;
+}
